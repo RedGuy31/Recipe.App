@@ -2,7 +2,7 @@ import * as model from "./model.js";
 import searchView from "./views/searchView.js";
 import resultsView from "./views/resultsView.js";
 import recipeView from "./views/recipeView.js";
-import bookMarksView from "./views/bookMarksView.js";
+import bookMarksView from "./views/bookmarksView";
 import paginationView from "./views/paginationView.js";
 import addRecipeView from "./views/addRecipeView.js";
 import { MODAL_CLOSE_SEC } from "./config.js";

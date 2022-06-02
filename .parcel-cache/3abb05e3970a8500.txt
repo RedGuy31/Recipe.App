@@ -1,4 +1,4 @@
-7388
+7389
 72C:\Users\HP\Desktop\RECEPE\node_modules\htmlnano\docs\docs\030-config.md132922019415716648 0
 78C:\Users\HP\Desktop\RECEPE\node_modules\core-js\features\date\to-iso-string.js132922019509347503 0
 91C:\Users\HP\Desktop\RECEPE\node_modules\core-js\internals\check-correctness-of-iteration.js132922019433464275 0
@@ -56,16 +56,6 @@
 69C:\Users\HP\Desktop\RECEPE\node_modules\core-js\features\math\tanh.js132922019507781242 0
 71C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\regions\ST.js132922019459544334 0
 39C:\Users\HP\Desktop\RECEPE\node_modules132922019524512191 1
-71C:\Users\HP\Desktop\RECEPE\node_modules\svgo\plugins\convertPathData.js132922019398227872 0
-51C:\Users\HP\Desktop\RECEPE\node_modules\htmlparser2132922019391869141 1
-85C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\core\src\public\MutableBundleGraph.js132922019423051620 0
-49C:\Users\HP\Desktop\RECEPE\node_modules\callsites132922019376690663 1
-85C:\Users\HP\Desktop\RECEPE\node_modules\dom-serializer\node_modules\entities\lib\maps132922019388977354 1
-68C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\cache\lib\FSCache.js132922019369371369 0
-81C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\namer-default\lib\DefaultNamer.js132922019369270860 0
-64C:\Users\HP\Desktop\RECEPE\node_modules\htmlparser2\package.json132922019384380474 0
-49C:\Users\HP\Desktop\RECEPE\node_modules\js-tokens132922019376660682 1
-30C:\Users\HP\Desktop\RECEPE\src132922006166276423 1
 68C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\cache\src\FSCache.js132922019373204575 0
 64C:\Users\HP\Desktop\RECEPE\node_modules\util-deprecate\README.md132922019367974611 0
 80C:\Users\HP\Desktop\RECEPE\node_modules\core-js\modules\esnext.symbol.dispose.js132922019464844017 0
@@ -90,16 +80,6 @@
 58C:\Users\HP\Desktop\RECEPE\node_modules\is-number\index.js132922019367657470 0
 71C:\Users\HP\Desktop\RECEPE\node_modules\core-js\actual\regexp\search.js132922019499960090 0
 65C:\Users\HP\Desktop\RECEPE\node_modules\svgo\dist\svgo.browser.js132922019420944261 0
-72C:\Users\HP\Desktop\RECEPE\node_modules\postcss-merge-rules\package.json132922019378458107 0
-49C:\Users\HP\Desktop\RECEPE\node_modules\commander132922019386575500 1
-74C:\Users\HP\Desktop\RECEPE\node_modules\core-js\internals\a-constructor.js132922019385485055 0
-58C:\Users\HP\Desktop\RECEPE\node_modules\yaml\browser\types132922019409050676 1
-68C:\Users\HP\Desktop\RECEPE\node_modules\@swc\helpers\lib\_extends.js132922019402604767 0
-59C:\Users\HP\Desktop\RECEPE\node_modules\glob-parent\LICENSE132922019365026068 0
-35C:\Users\HP\Desktop\RECEPE\src\sass132921331430527278 1
-65C:\Users\HP\Desktop\RECEPE\node_modules\terser\dist\bundle.min.js132922019398767977 0
-67C:\Users\HP\Desktop\RECEPE\node_modules\core-js\actual\set\index.js132922019481095170 0
-91C:\Users\HP\Desktop\RECEPE\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c132922019408990723 0
 94C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\package-manager\test\fixtures\packages\foo-2.0132922019411147340 1
 70C:\Users\HP\Desktop\RECEPE\node_modules\core-js\es\symbol\match-all.js132922019491601775 0
 52C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite132922019466712071 1
@@ -119,6 +99,28 @@
 42C:\Users\HP\Desktop\RECEPE\src\js\model.js132924043688084099 0
 78C:\Users\HP\Desktop\RECEPE\node_modules\@swc\helpers\src\_non_iterable_rest.js132922019425209481 0
 45C:\Users\HP\Desktop\RECEPE\src\sass\main.scss132921331184228970 0
+85C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\features\abortcontroller.js132922019377611438 0
+36C:\Users\HP\Desktop\RECEPE\README.md132986191318115310 0
+71C:\Users\HP\Desktop\RECEPE\node_modules\svgo\plugins\convertPathData.js132922019398227872 0
+51C:\Users\HP\Desktop\RECEPE\node_modules\htmlparser2132922019391869141 1
+85C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\core\src\public\MutableBundleGraph.js132922019423051620 0
+49C:\Users\HP\Desktop\RECEPE\node_modules\callsites132922019376690663 1
+85C:\Users\HP\Desktop\RECEPE\node_modules\dom-serializer\node_modules\entities\lib\maps132922019388977354 1
+68C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\cache\lib\FSCache.js132922019369371369 0
+81C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\namer-default\lib\DefaultNamer.js132922019369270860 0
+64C:\Users\HP\Desktop\RECEPE\node_modules\htmlparser2\package.json132922019384380474 0
+49C:\Users\HP\Desktop\RECEPE\node_modules\js-tokens132922019376660682 1
+30C:\Users\HP\Desktop\RECEPE\src132922006166276423 1
+72C:\Users\HP\Desktop\RECEPE\node_modules\postcss-merge-rules\package.json132922019378458107 0
+49C:\Users\HP\Desktop\RECEPE\node_modules\commander132922019386575500 1
+74C:\Users\HP\Desktop\RECEPE\node_modules\core-js\internals\a-constructor.js132922019385485055 0
+58C:\Users\HP\Desktop\RECEPE\node_modules\yaml\browser\types132922019409050676 1
+68C:\Users\HP\Desktop\RECEPE\node_modules\@swc\helpers\lib\_extends.js132922019402604767 0
+59C:\Users\HP\Desktop\RECEPE\node_modules\glob-parent\LICENSE132922019365026068 0
+35C:\Users\HP\Desktop\RECEPE\src\sass132921331430527278 1
+65C:\Users\HP\Desktop\RECEPE\node_modules\terser\dist\bundle.min.js132922019398767977 0
+67C:\Users\HP\Desktop\RECEPE\node_modules\core-js\actual\set\index.js132922019481095170 0
+91C:\Users\HP\Desktop\RECEPE\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mdb_drop.c132922019408990723 0
 86C:\Users\HP\Desktop\RECEPE\node_modules\core-js\actual\typed-array\to-locale-string.js132922019509527410 0
 48C:\Users\HP\Desktop\RECEPE\node_modules\escalade132922019384905718 1
 79C:\Users\HP\Desktop\RECEPE\node_modules\terser\node_modules\commander\Readme.md132922019379343183 0
@@ -191,11 +193,6 @@
 72C:\Users\HP\Desktop\RECEPE\node_modules\stylehacks\src\plugins\slash9.js132922019397518169 0
 71C:\Users\HP\Desktop\RECEPE\node_modules\core-js\features\reflect\has.js132922019478828494 0
 47C:\Users\HP\Desktop\RECEPE\src\js\controller.js132924043962414044 0
-50C:\Users\HP\Desktop\RECEPE\node_modules\css-select132922019401496306 1
-75C:\Users\HP\Desktop\RECEPE\node_modules\postcss-calc\src\lib\convertUnit.js132922019377501508 0
-86C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE132922019365338629 0
-52C:\Users\HP\Desktop\RECEPE\node_modules\yaml\util.js132922019412004093 0
-43C:\Users\HP\Desktop\RECEPE\src\js\helper.js132924022631478657 0
 69C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\workers\lib\Worker.js132922019408960730 0
 62C:\Users\HP\Desktop\RECEPE\node_modules\nan\nan_string_bytes.h132922019399961375 0
 71C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\regions\AX.js132922019412223957 0
@@ -211,6 +208,11 @@
 78C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\features\minmaxwh.js132922019450783090 0
 46C:\Users\HP\Desktop\RECEPE\src\img\favicon.png132921331180566734 0
 81C:\Users\HP\Desktop\RECEPE\node_modules\core-js\features\string\virtual\repeat.js132922019498234972 0
+50C:\Users\HP\Desktop\RECEPE\node_modules\css-select132922019401496306 1
+75C:\Users\HP\Desktop\RECEPE\node_modules\postcss-calc\src\lib\convertUnit.js132922019377501508 0
+86C:\Users\HP\Desktop\RECEPE\node_modules\@parcel\transformer-react-refresh-wrap\LICENSE132922019365338629 0
+52C:\Users\HP\Desktop\RECEPE\node_modules\yaml\util.js132922019412004093 0
+43C:\Users\HP\Desktop\RECEPE\src\js\helper.js132924022631478657 0
 68C:\Users\HP\Desktop\RECEPE\node_modules\core-js\actual\array\from.js132922019473760469 0
 46C:\Users\HP\Desktop\RECEPE\node_modules\colord132922019408714698 1
 72C:\Users\HP\Desktop\RECEPE\node_modules\core-js\es\array\virtual\find.js132922019470321446 0
@@ -398,7 +400,6 @@
 74C:\Users\HP\Desktop\RECEPE\node_modules\css-tree\lib\syntax\scope\index.js132922019419054780 0
 45C:\Users\HP\Desktop\RECEPE\node_modules\json5132922019394312679 1
 71C:\Users\HP\Desktop\RECEPE\node_modules\sass\types\util\promise_or.d.ts132922019422240524 0
-70C:\Users\HP\Desktop\RECEPE\node_modules\postcss-merge-longhand\src\lib132922019402724687 1
 51C:\Users\HP\Desktop\RECEPE\node_modules\buffer-from132922019373234565 1
 72C:\Users\HP\Desktop\RECEPE\node_modules\core-js\modules\es.array.flat.js132922019445547674 0
 71C:\Users\HP\Desktop\RECEPE\node_modules\core-js\stable\regexp\sticky.js132922019506101560 0
@@ -1746,8 +1747,8 @@
 74C:\Users\HP\Desktop\RECEPE\node_modules\postcss-minify-font-values\src\lib132922019381121152 1
 65C:\Users\HP\Desktop\RECEPE\node_modules\parcel\src\.eslintrc.json132922019382937042 0
 91C:\Users\HP\Desktop\RECEPE\node_modules\core-js\features\object\get-own-property-symbols.js132922019475909464 0
-56C:\Users\HP\Desktop\RECEPE\node_modules\svgo\lib\xast.js132922019421722503 0
 75C:\Users\HP\Desktop\RECEPE\node_modules\svgo\plugins\cleanupListOfValues.js132922019392335524 0
+56C:\Users\HP\Desktop\RECEPE\node_modules\svgo\lib\xast.js132922019421722503 0
 76C:\Users\HP\Desktop\RECEPE\node_modules\svgo\plugins\cleanupNumericValues.js132922019393119187 0
 74C:\Users\HP\Desktop\RECEPE\node_modules\core-js\internals\function-call.js132922019474484681 0
 78C:\Users\HP\Desktop\RECEPE\node_modules\core-js\modules\es.typed-array.from.js132922019455697733 0
@@ -2589,6 +2590,7 @@
 81C:\Users\HP\Desktop\RECEPE\node_modules\core-js\stable\url-search-params\index.js132922019483839789 0
 80C:\Users\HP\Desktop\RECEPE\node_modules\core-js\features\instance\replace-all.js132922019498418875 0
 90C:\Users\HP\Desktop\RECEPE\node_modules\postcss-merge-longhand\types\lib\decl\columns.d.ts132922019407051711 0
+70C:\Users\HP\Desktop\RECEPE\node_modules\postcss-merge-longhand\src\lib132922019402724687 1
 100C:\Users\HP\Desktop\RECEPE\node_modules\htmlnano\docs\versioned_sidebars\version-1.1.1-sidebars.json132922019412683149 0
 93C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\features\focusin-focusout-events.js132922019441624828 0
 84C:\Users\HP\Desktop\RECEPE\node_modules\postcss-merge-longhand\src\lib\canExplode.js132922019380501350 0
@@ -6293,7 +6295,6 @@
 71C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\regions\WS.js132922019466302489 0
 71C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\regions\YT.js132922019466612133 0
 73C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\features\aac.js132922019374704531 0
-85C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\features\abortcontroller.js132922019377611438 0
 86C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\features\addeventlistener.js132922019387590801 0
 68C:\Users\HP\Desktop\RECEPE\node_modules\.bin\node-gyp-build-test.ps1132922019518475400 0
 90C:\Users\HP\Desktop\RECEPE\node_modules\caniuse-lite\data\features\alternate-stylesheet.js132922019402094791 0
